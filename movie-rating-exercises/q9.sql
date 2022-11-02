@@ -11,3 +11,4 @@ from (select *
       (select *
        from globalStars
        where year > 1980) afterStars;
+
